@@ -30,3 +30,5 @@ GitHub Actions 会自动做三件事：安装依赖、用 MkDocs 构建出静态
 ## 一句话总结
 
 Markdown 负责内容，MkDocs 负责把内容变成网页，GitHub Actions 负责自动构建，GitHub Pages 负责托管访问。
+
+第二次推送。
